@@ -1,0 +1,32 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "image_flow",
+      "name": "ImageFlow",
+      "tagline": "Sequence image import helper",
+      "version": "1.0.2",
+      "type": "add-on",
+      "maintainer": "Aray is not array",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {
+        "files": "Import image from disk"
+      },
+      "tags": [
+        "3D View",
+        "Animation",
+        "Import-Export",
+        "Object",
+        "Sequencer"
+      ],
+      "archive_url": "./image_flow-1.0.2.zip",
+      "archive_size": 6602,
+      "archive_hash": "sha256:16422fac4ada703d9caa86ac084d50593850da99fab6534656b166cb11846d64"
+    }
+  ]
+}
